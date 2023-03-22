@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @waconzy
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning hacking
-- 💞️ I’m looking to collaborate on hackers
+- 👋 Hi, I’m @olawale
+- 👀 I’m interested in web dev
+- 🌱 I’m currently new technology
+- 💞️ I’m looking to collaborate on developers
 - 📫 How to reach me olawaleolatona111@gmail.com
 
 <!---
