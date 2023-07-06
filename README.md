@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olawale
-- 👀 I’m interested in web dev
-- 🌱 I’m currently new technology
-- 💞️ I’m looking to collaborate on developers
+- 👀 I’m a web dev
+- 🌱 I work with technology
+- 💞️ I’m looking to collaborate with developers
 - 📫 How to reach me olawaleolatona111@gmail.com
 
 <!---
