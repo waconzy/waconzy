@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @olawale
-- 👀 I’m a web dev
-- 🌱 I work with technology
-- 💞️ I’m looking to collaborate with developers
+- 👀 I’m a software engineer
 - 📫 How to reach me olawaleolatona111@gmail.com
 
 <!---
