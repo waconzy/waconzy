@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olawale
+- 👋 Hi, I’m olawale olatona
 - 👀 I’m a software engineer
 - 📫 How to reach me olawaleolatona111@gmail.com
 
